@@ -1,13 +1,13 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>@groupId@</groupId>
-  <artifactId>@artifactId@</artifactId>
-  <version>@version@</version>
-  <packaging>jar</packaging>
+  <groupId>yesisonline</groupId>
+  <artifactId>Iamonline</artifactId>
+  <version>1.0.0</version>
+  <packaging>war</packaging>
 
-  <name>@ant.project.name@</name>
-  <description>@description@</description>
-  <url>@project.url@</url>
+  <name>com.yesisonline.wwww</name>
+  <description>webapp</description>
+  <url>www.yesisonline.co.in</url>
 
   <licenses>
     <license>
